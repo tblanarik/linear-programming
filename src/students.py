@@ -1,7 +1,7 @@
 """
 My solution to a question asked on Reddit r/sysor using PuLP
 
-
+>>> https://www.reddit.com/r/sysor/comments/5w6nvf/algorithm_formulation_for_an_assignment_problem/
 >>> I'm trying to formulate an optimization equation for a scenario.
 >>> the objective is to maximize diversity in creating groups with 3-4 individuals in a class of 96 students.
 >>> So basically it's an assignment problem.
